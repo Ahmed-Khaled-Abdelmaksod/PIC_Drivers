@@ -1,45 +1,54 @@
-# PIC_Drivers
-# Embedded Systems Diploma Overview
+# Embedded Systems Diploma Overview - Part 2
 
 ## Program Details
 
 - **Diploma:** Embedded Systems
 - **Institution:** Kernel Masters
+- **Duration:** 120 hours (Part 2)
 
 ## Learnings
 
-I have successfully completed an Embedded Systems diploma with Kernel Masters, where I gained valuable knowledge and hands-on experience in various concepts.
+I have successfully completed the second part of the Embedded Systems diploma with Kernel Masters, encompassing 120 hours of in-depth learning.
 
 ## Key Concepts Covered
 
 ### Microcontroller Interfacing
 
-- Developed device drivers for the PIC18F family.
-- Implemented drivers for the following functionalities:
-  - GPIO (General Purpose Input/Output)
-  - Interrupt handling
-  - ADC (Analog-to-Digital Converter)
-  - EEPROM (Electrically Erasable Programmable Read-Only Memory)
-  - UART (Universal Asynchronous Receiver-Transmitter)
-  - I2C (Inter-Integrated Circuit)
-  - SPI (Serial Peripheral Interface)
+In this module, I delved into the intricacies of microcontroller interfacing, honing my skills in developing various device drivers for the PIC18F family. The drivers created include:
+
+- **GPIO (General Purpose Input/Output):** Controlling digital signals for interfacing with external devices.
+- **Interrupt Handling:** Managing interrupts to respond to specific events in real-time.
+- **ADC (Analog-to-Digital Converter):** Converting analog signals into digital values for processing.
+- **EEPROM (Electrically Erasable Programmable Read-Only Memory):** Storing non-volatile data for future use.
+- **UART (Universal Asynchronous Receiver-Transmitter):** Enabling serial communication with other devices.
+- **I2C (Inter-Integrated Circuit):** Facilitating communication between integrated circuits.
+- **Timers:** Precision timing for various applications.
+- **SPI (Serial Peripheral Interface):** Serial communication protocol for device communication.
+- **BUTTON:** Interfacing with push buttons for user input.
+- **CHARACTER LCD:** Displaying alphanumeric characters for user feedback.
+- **DC MOTOR:** Controlling the speed and direction of DC motors.
+- **KEYPAD:** Capturing user input through a keypad.
+- **LED:** Managing light-emitting diodes for visual indicators.
+- **RELAY:** Controlling high-power devices using low-power signals.
+- **SEVEN SEGMENT DISPLAY:** Displaying numerical information in a seven-segment format.
+
+*Note: The documentation for these drivers is comprehensive and highly beneficial, providing detailed explanations and usage guidelines.*
 
 ### Microcontroller Used
 
-- Utilized the PIC18F4620 microcontroller as the primary platform for practical applications.
+I extensively worked with the PIC18F4620 microcontroller throughout this module, gaining practical experience and insight into its capabilities.
 
 ## Projects
 
-I applied the acquired skills to create a variety of projects, including:
+I applied my acquired knowledge and utilized these drivers to create several projects, including:
 
 1. **Smart Home System:**
-   - Integrated GPIO for controlling devices.
-   - Utilized UART for communication.
-   - Implemented I2C for sensor integration.
+   - Integrated GPIO, UART, I2C for communication, and BUTTON for user input.
+   - Controlled devices such as LED, RELAY, and DC MOTOR for home automation.
 
 2. **Temperature Control System:**
    - Utilized ADC for temperature sensing.
-   - Integrated GPIO for controlling heating or cooling elements.
-   - Implemented interrupt handling for efficient system response.
+   - Integrated GPIO, CHARACTER LCD, and RELAY for precise temperature control.
 
-These projects showcase my proficiency in microcontroller programming and interfacing, demonstrating practical applications in both residential automation and temperature regulation systems.
+These projects underscore my proficiency in microcontroller programming and interfacing, showcasing practical applications in both residential automation and temperature regulation systems.
+Feel free to ask for any need informations :) 
